@@ -1,0 +1,29 @@
+.buttons {
+    font-size: medium;
+}
+
+.buttons__button {
+    background: transparent;
+    color: teal;
+    border: none;
+    margin: 0 0 0 20px;
+    transition: color 0.3s;
+}
+
+.buttons__button:hover {
+    cursor: pointer;
+    color: hsl(180, 100%, 35%);
+}
+
+@media (max-width: 767px) {
+    .buttons__button {
+        flex-basis: 100%;
+        width: 100%;
+        margin: 10px auto;
+    }
+}
+
+.buttons__button:disabled {
+    color: #ccc;
+    cursor: default;
+}
