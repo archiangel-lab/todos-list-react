@@ -1,6 +1,6 @@
 # TO-DO LIST App
 
-<img align="right" width="280" src="https://user-images.githubusercontent.com/63589448/206565917-14515016-aa6d-4e30-9ec2-31cf286e56f9.png"/>
+<img align="right" width="250" src="https://user-images.githubusercontent.com/63589448/206565917-14515016-aa6d-4e30-9ec2-31cf286e56f9.png"/>
 
 ## Demo 🕹️
 [https://archiangel-lab.github.io/to-do-list/](https://archiangel-lab.github.io/todos-list-react/)
