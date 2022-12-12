@@ -6,10 +6,11 @@ const Tasks = ({ tasks, hideDoneTasks }) => (
         {tasks.map(task => (
             <li
                 className={`list__item ${task.done && hideDoneTasks
-                        ? "list__item--hidden"
-                        : ""}`
-                }
-                key={task.id}>
+                    ? "list__item--hidden"
+                    : ""}
+                `}
+                key={task.id}
+             >
                 <button className="list__button list__button--done">
                     {task.done ? "✓" : ""}
                 </button>
