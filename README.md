@@ -10,6 +10,7 @@ TO-DO List is an application for typing tasks, each task is rendered on a separa
 
 ## Technologies:
 - JavaScript
+- React (Babel, JSX)
 - HTML
 - CSS
 - BEM
